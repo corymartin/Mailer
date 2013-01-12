@@ -1,0 +1,5 @@
+﻿Hello {{firstname}},
+
+Select the link below to update your password:
+www.littlecorp.com/foo/{{passwordtoken}}
+
